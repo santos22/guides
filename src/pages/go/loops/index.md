@@ -1,5 +1,5 @@
 ---
-title: Go
+title: For Loop
 ---
 
 # For loop in Go
